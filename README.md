@@ -15,7 +15,7 @@ Lista de recursos y checklist para realizar comprobación de un site / proyecto 
 - [ ] [Valida en HTML en el W3C](https://validator.w3.org/)
   - Ayuda a detectar errores típicos de JS
   - Puede ayudar a prevenir errores graves como tener varios `id` o varios `h1` en la página
-- [ ] Testear con el AdBlocker puesto
+- [ ] Testear con el **AdBlocker** puesto
 - [ ] Revisar la consola para enlaces rotos o errores de JS
 - [ ] Hay un sistema que añada prefijos al CSS ( postCSS? )
 - [ ] JS y el CSS concatenados y minificados
@@ -23,6 +23,7 @@ Lista de recursos y checklist para realizar comprobación de un site / proyecto 
   - Tenmos puesto el linter de JS en el editor SIEMPRE
   - El JS al final del `body`
   - Si hay CSS crítico ponerlo _inline_ en el `head`
+  - 
 
 ## Páginas
 
