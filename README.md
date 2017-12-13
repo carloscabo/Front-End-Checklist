@@ -31,7 +31,7 @@ Lista de recursos y checklist para realizar comprobación de un site / proyecto 
 
 ## Responsive y crossbroser
 
-- [ ] Revisar en: desktop ( 1920w ), tablet ( iPad, 768w ), mobile ( 360w )
+- [ ] Revisar en: desktop ( 1920w ), tablet ( iPad, 768w y 1024w _landscape_ ), mobile ( 360w )
   - Se adapata de forma fluida en resoluciones intermedias
 - [ ] Revisar en small-desktop ( MacBook Air 11" 1366x600 )
   - ¿Elemenos importante que queden fuera del _fold_?
@@ -41,6 +41,7 @@ Lista de recursos y checklist para realizar comprobación de un site / proyecto 
 - [ ] IE11
 - [ ] Edge
 - [ ] Simulador de iOS al menos para iPhone
+- [ ] Chrome de Andriod última versión
 
 ## Imágenes
 
@@ -54,6 +55,7 @@ Lista de recursos y checklist para realizar comprobación de un site / proyecto 
 
 ## Contenido y SEO
 
+- [ ] Hay un `robots.txt`
 - [ ] Todas las imágenes tienen `alt`  
   ```css
     /* Para resaltarlas en el navegador ;) */
