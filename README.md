@@ -66,7 +66,7 @@ Lista de recursos y checklist para realizar comprobación de un site / proyecto 
   ```
   - [ ] Echar un ojo a las [guidelines de Accesibildiad de WGAC 2.0](https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html)
     - En organismos institucionales o grandes empresas puede ser obligatorio cumplir un `A` o incluso un `AA`.
-  - [ ] los _breadcrumbs_ tienen el [marcado de microformatos](https://developers.google.com/search/docs/data-types/breadcrumbs)
+  - [ ] Los _breadcrumbs_ tienen el [marcado de microformatos](https://developers.google.com/search/docs/data-types/breadcrumbs)
     - ¿Hay que añadir microformatos en otros contenidos? [http://schema.org](http://schema.org/docs/gs.html)
       - Videos
       - Paginación
