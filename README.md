@@ -40,17 +40,17 @@ Lista de recursos y checklist para realizar comprobación de un site / proyecto 
 - [ ] Safari
 - [ ] IE11
 - [ ] Edge
-- [ ] Simlador de iOS al menos para iPhone
+- [ ] Simulador de iOS al menos para iPhone
 
 ## Imágenes
 
-- [ ] optimizar imágenes estáticas
+- [ ] Optimizar imágenes estáticas
   - [ImageOptim](https://imageoptim.com/es.html)
   - [TinyPNG](https://tinypng.com/) para PNGs con zonas transparentes grandes que pesen mucho
   - [SVGO](https://github.com/svg/svgo) para optimzar los SVGs
 - [ ] Alternativas para móviles
- - Usaremos `picture` si necesitamos que haya alternativas para mobile. Hay un [bonito _polyfill_ para IE10](http://scottjehl.github.io/picturefill/)
-- [ ] Usaamos _lazyload_ para componentes / páginas que usen muchos elementos de imagen
+  - Usaremos `picture` si necesitamos que haya alternativas para mobile. Hay un [bonito _polyfill_ para IE10](http://scottjehl.github.io/picturefill/)
+- [ ] Usamos _lazyload_ para componentes / páginas que usen muchos elementos de imagen
 
 ## Contenido y SEO
 
