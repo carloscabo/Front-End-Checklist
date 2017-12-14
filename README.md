@@ -4,7 +4,7 @@ Lista de recursos y checklist para realizar comprobación de un site / proyecto 
 
 ## Generales. Salida a producción
 
-- [ ] Comprobar que están todos los [elementos del layout base](https://github.com/carloscabo/front-end-checklist/blob/master/resources/layout.html)
+- [ ] ![High][high_img] Comprobar que están todos los [elementos del layout base](https://github.com/carloscabo/front-end-checklist/blob/master/resources/layout.html)
   - Favicon ( [convertico.com](http://convertico.com/) )
   - `lang` en el `head`
   - OpenGraph
@@ -91,9 +91,7 @@ Línea intencionalmente vacía.
   - [ ] Echar un ojo en ChromeDev Tools **LightHouse**
   - [ ] Echar un ojo en [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   - [ ] HTML Minificado (esto es de nota)
-  
-  
-  
-[low_img]: https://front-end-checklist.now.sh/low.svg
-[medium_img]: https://front-end-checklist.now.sh/medium.svg
-[high_img]: https://front-end-checklist.now.sh/high.svg
+
+[low_img]: https://rawgit.com/carloscabo/front-end-checklist/master/resources/img/low.svg
+[medium_img]: https://rawgit.com/carloscabo/front-end-checklist/master/resources/img/medium.svg
+[high_img]: https://rawgit.com/carloscabo/front-end-checklist/master/resources/img/hight.svg
