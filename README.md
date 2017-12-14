@@ -91,3 +91,9 @@ Línea intencionalmente vacía.
   - [ ] Echar un ojo en ChromeDev Tools **LightHouse**
   - [ ] Echar un ojo en [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   - [ ] HTML Minificado (esto es de nota)
+  
+  
+  
+[low_img]: https://front-end-checklist.now.sh/low.svg
+[medium_img]: https://front-end-checklist.now.sh/medium.svg
+[high_img]: https://front-end-checklist.now.sh/high.svg
