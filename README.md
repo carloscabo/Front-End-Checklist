@@ -39,10 +39,10 @@ Línea intencionalmente vacía.
 ## Responsive y crossbrowser
 
 - [ ] Revisar en: desktop ( **1920w** ), tablet ( iPad, **768w** y **1024w** _landscape_ ), mobile ( **360w** )
-  - Se adapata de forma fluida en resoluciones intermedias
+  - Se adapta de forma fluida en resoluciones intermedias
 - [ ] Revisar en small-desktop ( MacBook Air 11" **1366x600** )
   - ¿Elementos importante que queden fuera del _fold_?
-- Navegadores y SOs
+- **Navegadores y SOs**
   - [ ] Chrome
   - [ ] Firefox
   - [ ] Safari
