@@ -31,7 +31,7 @@ Línea intencionalmente vacía.
   - [ ] Funciona la validación de formularios
   - [ ] Los formularios se pueden nevagar con `tab`
 
-##&nbsp;Páginas
+## &nbsp;Páginas
 
   - [ ] Página 404 / 500
   - [ ] ¿Hay emails o newsletters? ( <https://www.emailonacid.com/> )
