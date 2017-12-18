@@ -77,8 +77,8 @@ Línea intencionalmente vacía.
     - En organismos institucionales o grandes empresas puede ser obligatorio cumplir un `A` o incluso un `AA`.
   - [ ] ![High][high_img] Los _breadcrumbs_ tienen el [marcado de microformatos](https://developers.google.com/search/docs/data-types/breadcrumbs)
     - ![Low][low_img] ¿Hay que añadir microformatos en otros contenidos? [http://schema.org](http://schema.org/docs/gs.html)
-      - Videos
-      - Paginación
+      - [Videos](https://developers.google.com/webmasters/videosearch/schema)
+      - [Paginación](http://schema.org/pagination)
       - etc.
   - [ ] ![Low][low_img] Hay un sitemap.xml
 
