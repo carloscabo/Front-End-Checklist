@@ -2,7 +2,7 @@
 
 Lista de recursos y checklist para realizar comprobación de un site / proyecto antes de pasar a producción.
 
-Está indicada la **prioridad de cada acción / comprobación **. ![High][high_img] y ![Medium][medium_img] son las prioridades que debemos comprobar **siempre que sea posible**. Hemos marcado como ![Low][low_img] aquellas que nos parecen menos prioritarias o que **dependen de las características técnicas del proyecto**.
+Está indicada la **prioridad de cada acción / comprobación**. ![High][high_img] y ![Medium][medium_img] son las prioridades que debemos comprobar **siempre que sea posible**. Hemos marcado como ![Low][low_img] aquellas que nos parecen menos prioritarias o que **dependen de las características técnicas del proyecto** (pueden no ser aplicables en **todos** los proyectos).
 
 ## Generales. Salida a producción
 
@@ -73,18 +73,18 @@ Línea intencionalmente vacía.
       border: 5px dashed #c000;
     }
   ```
-  - [ ] ![Low][low_img] Echar un ojo a las [guidelines de Accesibildiad de WGAC 2.0](https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html)
-    - En organismos institucionales o grandes empresas puede ser obligatorio cumplir un `A` o incluso un `AA`.
-  - [ ] ![High][high_img] Los _breadcrumbs_ tienen el [marcado de microformatos](https://developers.google.com/search/docs/data-types/breadcrumbs)
-    - ![Low][low_img] ¿Hay que añadir microformatos en otros contenidos? [http://schema.org](http://schema.org/docs/gs.html)
-      - [Videos](https://developers.google.com/webmasters/videosearch/schema)
-      - [Paginación](http://schema.org/pagination)
-      - etc.
-  - [ ] ![Low][low_img] Hay un sitemap.xml
+- [ ] ![Low][low_img] Echar un ojo a las [guidelines de Accesibildiad de WGAC 2.0](https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html)
+  - En organismos institucionales o grandes empresas puede ser obligatorio cumplir un `A` o incluso un `AA`.
+- [ ] ![High][high_img] Los _breadcrumbs_ tienen el [marcado de microformatos](https://developers.google.com/search/docs/data-types/breadcrumbs)
+  - ![Low][low_img] ¿Hay que añadir microformatos en otros contenidos? [http://schema.org](http://schema.org/docs/gs.html)
+    - [Videos](https://developers.google.com/webmasters/videosearch/schema)
+    - [Paginación](http://schema.org/pagination)
+    - etc.
+- [ ] ![Low][low_img] Hay un sitemap.xml
 
 ## Documentación
 
-  - [ ] ![High][high_img] En el README del proyecto están todas las herramientas que se usan para el site.
+  - [ ] ![High][high_img] En el **README.md** del proyecto están todas las herramientas que se usan para el site.
     - Por ejemplo: ¿Se usa fontcustom? ¿Se usa IconMoon? ¿Donde está la configuración?
 
 ## Performace
